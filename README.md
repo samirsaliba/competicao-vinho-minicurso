@@ -1,5 +1,6 @@
 # competicao-vinho-minicurso
-Notebook para baseline da competição e referência para os participantes.
+
+Arquivos do Minicurso de Dados da Radix - E a competição dos Vinhos
 
 Arquivos:  
 - [Baseline (Perceptron :zap:)](https://github.com/samirsaliba/competicao-vinho-minicurso/blob/main/baseline.ipynb)
